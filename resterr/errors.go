@@ -1,4 +1,4 @@
-package errors
+package resterr
 
 import "net/http"
 

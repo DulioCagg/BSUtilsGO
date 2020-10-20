@@ -1,4 +1,4 @@
-module github.com/DulioCagg/BSOUtilsGO/errors
+module github.com/DulioCagg/BSOUtilsGO/resterr
 
 go 1.15
 
